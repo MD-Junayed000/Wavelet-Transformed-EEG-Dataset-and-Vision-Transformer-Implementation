@@ -1,4 +1,6 @@
 # Wavelet-Transformed-EEG-Dataset-and-Vision-Transformer-Implementation
+![77665](https://github.com/user-attachments/assets/dbb289c1-92a7-47b6-9105-f5d6db65d347)
+
 
 **Overview**
 
